@@ -12,7 +12,7 @@ This project is a simple responsive website built using Bootstrap. It features a
 
 ## Technologies Used
 - HTML
-- Bootstrap 5
+- [Bootstrap 5](https://getbootstrap.com/)
 - CSS
 - JavaScript
 
